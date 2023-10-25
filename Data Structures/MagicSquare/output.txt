@@ -1,0 +1,46 @@
+//NICOLAS LOVELACE
+//CS2413
+//DR CHAO ZHAO
+//PROJECT 1
+//JAN 31, 2022
+
+/*
+	Magic Square Generator and Validator
+*/
+
+Magic Square Program
+Enter the size of the square: 5
+Enter data row by row:
+Row 1: 11 22 33 44 55
+Row 2: 1 2 3 4 5
+Row 3: 9 4 5 6 7
+Row 4: 2 9 3 4 9
+Row 5: 1 2 3 4 5
+It is not a magic square. We will generate one for you.
+Previous square:
+11 22 33 44 55
+1  2  3  4  5
+9  4  5  6  7
+2  9  3  4  9
+1  2  3  4  5
+Generated square:
+17 24 1  8  15
+23 5  7  14 16
+4  6  13 20 22
+10 12 19 21 3
+11 18 25 2  9
+Enter 1 to do it again. Enter any other number to quit: 1
+Magic Square Program
+Enter the size of the square: 5
+Enter data row by row:
+Row 1: 17 24 1 8 15
+Row 2: 23 5 7 14 16
+Row 3: 4 6 13 20 22
+Row 4: 10 12 19 21 3
+Row 5: 11 18 25 2 9
+Congratulations! It is a magic square.
+Enter 1 to do it again. Enter any other number to quit: 0
+
+--------------------------------
+Process exited after 112.8 seconds with return value 0
+Press any key to continue . . .
