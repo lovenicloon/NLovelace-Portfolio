@@ -1,0 +1,41 @@
+1 4 
+2 5 
+3 6 
+
+X
+8 7 6 
+5 4 3 
+The multiplication of these matrices is: 
+28 23 18 
+41 34 27 
+54 45 36 
+Would you like to continue?
+n
+
+1 4 
+2 5 
+
+X
+1 0 
+0 1 
+The multiplication of these matrices is: 
+1 4 
+2 5 
+Would you like to continue?
+n
+
+5 3 
+1 4 
+7 2 
+4 9 
+
+X
+8 7 6 
+5 4 3 
+The multiplication of these matrices is: 
+55 47 39 
+28 23 18 
+66 57 48 
+77 64 51 
+Would you like to continue?
+n
